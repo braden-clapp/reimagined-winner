@@ -25,3 +25,7 @@ Things you may want to cover:
 
 
 https://github.com/rails/rails
+
+https://www.railstutorial.org/book/toy_app
+
+last ran command: create user model
